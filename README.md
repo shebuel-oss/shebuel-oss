@@ -1,10 +1,13 @@
-<!DOCTYPE html>
-<html>
-<body>
-  
-  <h3 style="text-align:center;">Hey there 👋 I'm Shebuel Inyang</h3>
+<h3 align="center">
+  Hey there 👋 I'm Shebuel Inyang
+</h3>
 
-Funny to start with this, I’m a runaway developer & designer 🤓, not a complete runaway though . I designed for few years and did some Frontend Development for few months just to understand some technical jargons.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shebuel-inyang">LinkedIn</a>   <a href="shebuel.hashnode.dev">Blog</a>   <a href="twitter.com/shebuel_">Twitter</a>
+  </p>
+<p align="center">
+  Funny to start with this, I’m a runaway developer & designer 🤓, not a complete runaway though . I designed for few years and did some Frontend Development for few months just to understand some technical jargons.
+  </p>
  
 <!--
 **shebuel-oss/shebuel-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</body>
-  </html>
+
