@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shebuel-inyang">LinkedIn</a>   <a href="shebuel.hashnode.dev">Blog</a>   <a href="twitter.com/shebuel_">Twitter</a>
+  <a href="https://www.linkedin.com/in/shebuel-inyang">LinkedIn</a>   <a href="https://www.shebuel.hashnode.dev">Blog</a>   <a href="https://www.twitter.com/shebuel_">Twitter</a>
   </p>
 <p align="center">
   Funny to start with this, I’m a runaway developer & designer 🤓, not a complete runaway though . I designed for few years and did some Frontend Development for few months just to understand some technical jargons.
