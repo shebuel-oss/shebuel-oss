@@ -34,7 +34,13 @@ However, over the years, I have developed through intentional practice, some val
 </br>
 
 <h2>OSS Engagements :star:</h2>
-Loading....... </br>
+<h4>EddieHub (Volunteer)</h4> </br>
+EddieHub is an Open Source community focusing on reciprocal collaboration between members of the tech community.  
+The aim of the community is to encourage and promote communication, best practices and technical expertise in an inclusive and welcome environment. </br>
+https://github.com/EddieHubCommunity </br>
+
+</br>
+More Loading....... </br>
 </br>
 
 <h2>Nice to know...:wink:</h2>
