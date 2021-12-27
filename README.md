@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shebuel-inyang">LinkedIn</a>   <a href="https://shebuel.hashnode.dev/">Blog</a>   <a href="https://www.twitter.com/shebuel_">Twitter</a>
+  <a href="https://www.linkedin.com/in/shebuel-inyang">LinkedIn</a>   <a href="https://shebuel.hashnode.dev/">Blog</a>   <a href="https://www.twitter.com/heyshebuel">Twitter</a>
   </p>
 
 </br>
