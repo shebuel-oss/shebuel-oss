@@ -38,8 +38,13 @@ However, over the years, I have developed through intentional practice, some val
 EddieHub is an Open Source community focusing on reciprocal collaboration between members of the tech community.  
 The aim of the community is to encourage and promote communication, best practices and technical expertise in an inclusive and welcome environment. </br>
 https://github.com/EddieHubCommunity </br>
-
 </br>
+
+<h4>Open United(Associate Product Manager)</h4> </br>
+OpenUnited is a platform that connects digital talent and work in a unique way. Specific skills are proven on high-quality open products, and once work is verified, these talented contributors are eligible to work for companies on paid tasks. Through OpenUnited, companies are able to access a large pool of proven talent (product managers, developers, designers and more) with verified portfolios at great rates. Additionally, the ecosystem dynamics mean that companies are supporting the sustainability of the open source ecosystem, when work on commercial products is completed through OpenUnited.</br>
+https://openunited.com/about </br>
+</br>
+
 More Loading....... </br>
 </br>
 
