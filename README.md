@@ -1,6 +1,6 @@
 <h3 align="center">
   Hey there 👋 I'm Shebuel Inyang</br>
-  <h5 align="center">Associate Product Manager | Open Source Lover & Advocate</h5>
+  <h5 align="center">Associate Product Manager | Open Source Lover, contributor, & Advocate</h5>
 </h3>
 
 <p align="center">
