@@ -12,7 +12,7 @@
 <h1>Shebeul - OSS 🥑</h1>
 </br>
 
- An Open Source contributor, Advocate, and Community builder; Co-founder of CBA, a community for community builders; Creator of the “What10Say” project. I am super passionate about building healthy and sustainable Open Source communities around projects and their contributors. A former product manager now involved in building communities.</br>
+ An Open Source contributor, Advocate, and Community builder. I am super passionate about building healthy and sustainable Open Source communities around projects and their contributors. A former product manager now involved in building communities.</br>
 </br>
 </br>
 
