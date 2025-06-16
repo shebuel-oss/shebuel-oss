@@ -1,6 +1,6 @@
-<h2>
+<p>
   Hey there, I'm Shebuel 👋</br>
-  </h2>
+  </p>
 
 
 <!--
